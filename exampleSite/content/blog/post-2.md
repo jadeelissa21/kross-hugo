@@ -1,7 +1,7 @@
 ---
 title: "Women in Technology-Blog post coming soon"
 date: 2021-05-23
-image: "images/blog/Blue Orange and Yellow Bright and Playful Fashion Moodboard Photo Collage.png"
+image: "images/blog/26690.jpg"
 description: "This is meta description."
 draft: false
 ---
