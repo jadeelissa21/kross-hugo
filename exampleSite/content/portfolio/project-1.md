@@ -10,13 +10,11 @@ draft: false
 
 #### Project description
 
-we were given a real-life scenario project based around the topic of
-health issues which are important to students. During the project we conducted user research interviews,
-designed and tested a prototype for an interactive mobile system/application based around the theme of
-healthy eating. Throughout the project I worked collaboratively with my group to design an application fit
-for main audience as well as following the main principles of UX to create the best user experience.
-
-The eat in application is a for people who want to learn how to cook healthy meals and stay within their
+Worked collaboratively in a team, to conduct user research
+interviews. Designed and tested a prototype using Invision
+for an interactive mobile system/application based around
+the theme of healthy eating, we were given a real-life scenario project based around the topic of
+health issues which are important to students. The eat in application is a for people who want to learn how to cook healthy meals and stay within their
 budget it helps Provide students with a range of recipes and teaches them how to create the dish
 by including cooking methods as well as a set cooking time. During the process of creating the eat in
 application I contributed towards the tasks within the user research phase e.g. creating the design brief as
