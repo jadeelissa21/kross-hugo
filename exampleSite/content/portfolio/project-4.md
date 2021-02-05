@@ -4,7 +4,7 @@ date: 2021-05-17
 image: "images/portfolio/item-5.png"
 client: "UWE"
 project_url : "https://themefisher.com/"
-categories: ["Illustration"]
+categories: ["Design","Illustrations"]
 description: "This is meta description."
 draft: false
 ---
