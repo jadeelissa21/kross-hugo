@@ -31,8 +31,8 @@ skill:
     progress: 10%
     color: "#ffbcaa"
 experience:
-  enable: false
-  title: Experience
+  enable: true
+  title: My Experience
   item:
   - logo: images/experience/icon-1.png
     title: Junior UX Designer
