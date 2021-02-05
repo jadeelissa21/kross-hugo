@@ -26,9 +26,9 @@ diversity in digital media
 
 #### Project Details
 
-“ Only one-in-six tech specialists in the UK are women, only one-in-ten are IT leaders and,
+'Only one-in-six tech specialists in the UK are women, only one-in-ten are IT leaders and,
 worse still, despite significant growth in the number of women working in IT roles, female
-representation in the technology sector has stalled over the last ten years.“ (The future of
+representation in the technology sector has stalled over the last ten years.' (The future of
 Women in IT - Women in Technology, 2020)
 
 I have chosen to base my project on this topic, because there is an issue within the
