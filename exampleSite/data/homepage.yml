@@ -56,11 +56,7 @@ service:
   enable: true
   title: Services
   item:
-  - title: Animation
-    icon: ''
-    content: ''
-    highlighted: ''
-  - title: Graphic Design
+  - title: Graphic Design & Animation
     icon: ''
     content: ''
     highlighted: ''
