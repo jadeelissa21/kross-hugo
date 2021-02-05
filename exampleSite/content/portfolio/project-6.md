@@ -1,8 +1,8 @@
 ---
-title: "The 'Eat in' application research and design"
-date: 2020-04-23
+title: "Women in Technology video infographic series"
+date: 2021-05-23
 image: "images/portfolio/item-1.png"
-client: "Fruto Design Studio"
+client: "UWE"
 categories: ["Design"]
 description: "This is meta description."
 draft: false
