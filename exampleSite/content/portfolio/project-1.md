@@ -1,6 +1,6 @@
 ---
 title: "Eat in application research and design"
-date: 2020-04-2312T12:14:34+06:00
+date: 2020-04-23
 image: "images/portfolio/item-1.png"
 client: "Fruto Design Studio"
 categories: ["design","development"]
