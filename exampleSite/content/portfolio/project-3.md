@@ -2,8 +2,7 @@
 title: "Women in Tech video series"
 date: 2020-21
 image: "images/portfolio/item-3.png"
-client: "unknown"
-project_url : "https://themefisher.com/"
+client: "UWE"
 categories: ["Design"]
 description: "This is meta description."
 draft: false
