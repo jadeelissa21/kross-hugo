@@ -18,14 +18,14 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: UX Research
+  - title: UX Research & Design
     progress: 60%
     color: "#fdb157"
   - title: Graphic Design
     progress: 60%
     color: "#9473e6"
   - title: After Effects Animation
-    progress: 75%
+    progress: 65%
     color: "#bdecf6"
   - title: Code
     progress: 10%
