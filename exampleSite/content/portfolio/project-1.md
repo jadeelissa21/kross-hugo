@@ -1,30 +1,43 @@
 ---
-title: "Artwork Design"
+title: "Eat in application research and design"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-1.png"
-client: "John Doe"
+client: "Fruto Design Studio"
 project_url : "https://themefisher.com/"
 categories: ["design","development"]
 description: "This is meta description."
 draft: false
 ---
 
-#### Project Requirements
+#### Project description
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+we were given a real-life scenario project based around the topic of
+health issues which are important to students. During the project we conducted user research interviews,
+designed and tested a prototype for an interactive mobile system/application based around the theme of
+healthy eating. Throughout the project I worked collaboratively with my group to design an application fit
+for main audience as well as following the main principles of UX to create the best user experience.
 
+The eat in application is a for people who want to learn how to cook healthy meals and stay within their
+budget it helps Provide students with a range of recipes and teaches them how to create the dish
+by including cooking methods as well as a set cooking time. During the process of creating the eat in
+application I contributed towards the tasks within the user research phase e.g. creating the design brief as
+well as making the information sheet the interviewee’s read. I also helped create the visual icons and basic
+wire frame for the final prototype and lastly I created the final presentation, displaying all our progress
+throughout the project which was shown to the external client
 
-#### Project Details
+#### Project outcome
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Throughout the project we conducted user research in the form of semi structured interviews, designed
+and tested a prototype for an interactive mobile system/application based around the theme of healthy
+eating, During the process of creating the eat in application I contributed towards the tasks within the user
+research phase e.g. creating the design brief as well as making the information sheet the interviewee’s
+read. I also helped create the visual icons and basic wire frame for the final prototype lastly I created the
+final presentation, showcasing all of our progress throughout the project which was shown to the external
+client.From this project I have learnt that communication is vital when trying to create an
+application within a group, it is important that each page is consistent with the content and the overall
+layout of the elements on the page. The design and feel of the application will determine the users interests
+with the content e.g. the choice of colours can affect how the app is perceived. 
+
+Another part of creating an application which is crucial is the user research, by finding out the users
+behaviour and needs you can create the interface based on that research and make the application more
+personalised to the tailored audience needs e.g. students. 
