@@ -56,20 +56,20 @@ service:
   enable: true
   title: Services
   item:
-  - title: Graphic Design & Animation
-    icon: ''
-    content: ''
-    highlighted: ''
-  - title: UI Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: false
   - title: UX Design
     icon: ti-vector
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: true
+  - title: UI Design
+    icon: ti-palette
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    highlighted: false
+  - title: Graphic Design & Animation
+    icon: ''
+    content: ''
+    highlighted: ''
 portfolio:
   enable: true
   title: Portfolio
