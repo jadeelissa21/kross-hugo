@@ -56,6 +56,12 @@ service:
   enable: true
   title: Services
   item:
+  - title: UI Design
+    icon: ''
+    content: |-
+      Want a mobile application design?
+      I can help design and test a prototype using applications like Invision & Adobe XD, Interactive mobile system/application fitted for maximum user ability and experience, tried and tested for your benefit!
+    highlighted: ''
   - title: UX Design & Research
     icon: ti-vector
     content: Individually or working with a team I can help you design a digital product
