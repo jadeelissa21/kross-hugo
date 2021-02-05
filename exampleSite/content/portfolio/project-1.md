@@ -1,7 +1,7 @@
 ---
 title: "The 'Eat in' application research and design"
 date: 2020-04-23
-image: "images/portfolio/thumb-1920-1045639.jpg"
+image: "images/portfolio/Eatin.png"
 client: "Fruto Design Studio"
 categories: ["Design","Development"]
 description: "This is meta description."
