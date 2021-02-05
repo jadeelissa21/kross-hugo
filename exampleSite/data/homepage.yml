@@ -7,7 +7,7 @@ about:
     it's my passion. I am here to help you, I am here to design and assist.
   button:
     enable: true
-    label: know more
+    label: Get to know me!
     URL: about
 skill:
   enable: true
