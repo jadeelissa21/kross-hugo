@@ -4,7 +4,7 @@ banner:
 about:
   enable: true
   content: Hi I'm Jade, Junior Digital Content Creator. I love to design interfaces,
-    it's my passion. I am here to help you, I am here to design and assist.
+    it's my passion.
   button:
     enable: true
     label: Get to know me!
