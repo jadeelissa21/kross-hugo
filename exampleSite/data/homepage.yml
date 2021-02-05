@@ -46,9 +46,6 @@ education:
   enable: true
   title: Education
   item:
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
   - title: Digital Media BSc(Hons)
     year: 2018-2021
     academy: The University of West England
