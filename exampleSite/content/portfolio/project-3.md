@@ -1,6 +1,6 @@
 ---
 title: "Coming soon-UX Research & Design"
-date: 2019-05-12T12:14:34+06:00
+date: 2020-21
 image: "images/portfolio/item-3.png"
 client: "unknown"
 project_url : "https://themefisher.com/"
