@@ -5,16 +5,19 @@ work_process:
   item:
   - title: Research and Plan
     icon: images/icons/plan.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'At the start of every project, I always make sure to highlight everything
+      from the brief/pitch, stating what the problem is I am trying to solve and who
+      is the user/audience for the project. Next, I plan out the outcome of the project
+      and mindmap any ideas of solutions which come to mind. '
   - title: Design and Develop
     icon: images/icons/design.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'After the ideation phase, I usually make visual diagrams and rough drafts
+      of sketching or paper wireframes depending on the project. During the development
+      phase, you will find me in my comfy clothes surrounded by 1000 to-do lists.  '
   - title: Deliver
     icon: images/icons/print.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: After all that hard work, I believe it is important to deliver the project
+      ( whatever form that be) with an evaluation report and a smile.
 team:
   enable: false
   title: My Team
