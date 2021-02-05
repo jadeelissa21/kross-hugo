@@ -31,7 +31,7 @@ logo = ""
 phone = "07502577576"
 theme_color = "#41228e"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [params.cookies]
 enable = true
