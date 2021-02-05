@@ -1,9 +1,8 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
+title: "Professional Document Design"
+date: 2020-12-17
 image: "images/portfolio/item-2.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
+client: "UWE"
 categories: ["branding"]
 description: "This is meta description."
 draft: false
@@ -11,20 +10,13 @@ draft: false
 
 #### Project Requirements
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Whilst studying in my last year at UWE, i was asked to create and Design my own professional documents which can be used for employment after graduating. 
+The required professional documents included (CV & Business card)
 
 
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+I had a clear idea with how i wanted to create my professional documents, i wanted to expess my creative side and show my passion for designing and illustrating, the first document was the CV, whilst making my CV i wanted to it to be unique and interesting, using a template of Canva,The layout design was fit for the main purpose of the document, it was easy for employers to read and looked professionally organised. i enjoyed making this CV because i could add my own designs to the page without it seeming boring or filled with too much text, the images on the page were handmade using Adobe Illustrator, i chose a monochome detailing for the outlines of the drawings to create a minimalistic piece which is easy on the eyes contrasting to the bright background colours.
+
+The second peice of work i made was the business card design, After looking online at many diffrent types of business card designs and inspirations i liked the idea of sticking with the outline peice i have made for the CV, after many trial and error vector images, i finally created the perfect design which i believe, displays my professional interest in the UX field of design and research. To add a little bit of pop to the card i then filled in parts of the design to create individual types of cards based off different colours this was a small tip i learnt from my tutors to personalise each card, make it something memorable.
+
