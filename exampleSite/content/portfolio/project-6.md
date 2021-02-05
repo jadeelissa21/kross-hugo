@@ -10,31 +10,31 @@ draft: false
 
 #### Project description
 
-Worked collaboratively in a team, to conduct user research
-interviews. Designed and tested a prototype using Invision
-for an interactive mobile system/application based around
-the theme of healthy eating, we were given a real-life scenario project based around the topic of
-health issues which are important to students. The eat in application is a for people who want to learn how to cook healthy meals and stay within their
-budget it helps Provide students with a range of recipes and teaches them how to create the dish
-by including cooking methods as well as a set cooking time. During the process of creating the eat in
-application I contributed towards the tasks within the user research phase e.g. creating the design brief as
-well as making the information sheet the interviewee’s read. I also helped create the visual icons and basic
-wire frame for the final prototype and lastly I created the final presentation, displaying all our progress
-throughout the project which was shown to the external client
+I will create a video infographic about the topic ‘What challenges Women in the
+UK digital media industry face each day’. My main audience of the project will
+be students studying for a media degree in addition to professional women in the
+industry. I will deliver a video infographic which will be fun and colourful yet still
+understandable and informative for students to watch. The use of
+animated/motion graphics will help grab the viewers’ attention therefore making
+it easier for information to be consumed in such a short amount of time. I will
+showcase my project at UWE in the digital media department, as well as at a
+conference based around digital media, and online via a blog based on women in
+technology. The importance of this project is crucial, the audience needs to learn
+about the importance of women in tech and the issue of the lack of gender
+diversity in digital media
 
-#### Project outcome
 
-Throughout the project we conducted user research in the form of semi structured interviews, designed
-and tested a prototype for an interactive mobile system/application based around the theme of healthy
-eating, During the process of creating the eat in application I contributed towards the tasks within the user
-research phase e.g. creating the design brief as well as making the information sheet the interviewee’s
-read. I also helped create the visual icons and basic wire frame for the final prototype lastly I created the
-final presentation, showcasing all of our progress throughout the project which was shown to the external
-client.From this project I have learnt that communication is vital when trying to create an
-application within a group, it is important that each page is consistent with the content and the overall
-layout of the elements on the page. The design and feel of the application will determine the users interests
-with the content e.g. the choice of colours can affect how the app is perceived. 
+#### Project Details
 
-Another part of creating an application which is crucial is the user research, by finding out the users
-behaviour and needs you can create the interface based on that research and make the application more
-personalised to the tailored audience needs e.g. students. 
+'Only one-in-six tech specialists in the UK are women, only one-in-ten are IT leaders and,
+worse still, despite significant growth in the number of women working in IT roles, female
+representation in the technology sector has stalled over the last ten years.' (The future of
+Women in IT - Women in Technology, 2020)
+
+I have chosen to base my project on this topic, because there is an issue within the
+gender representation of the digital media industry, as a female digital media
+student I have learnt that my choice of work field is still a heavily male dominated
+area of work. I will present the output of my research in a visual form because
+design and creating visuals has always been a strength of mine. I have felt
+confident in the past working on animated/visual projects using Adobe After
+Effects and Illustrator. 
