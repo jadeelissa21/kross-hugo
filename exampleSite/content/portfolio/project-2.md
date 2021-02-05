@@ -1,7 +1,7 @@
 ---
 title: "Professional Document Design"
 date: 2020-12-17
-image: "images/portfolio/item-2.png"
+image: "images/portfolio/des.png"
 client: "UWE"
 categories: ["branding"]
 description: "This is meta description."
