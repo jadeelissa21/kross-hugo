@@ -3,7 +3,7 @@ title: "Women in Technology animation CCTP"
 date: 2021-05-17
 image: "images/portfolio/item-5.png"
 client: "UWE"
-categories: ["Design","Illustrations"]
+categories: ["Design"]
 description: "This is meta description."
 draft: false
 ---
