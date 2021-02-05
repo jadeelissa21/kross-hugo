@@ -52,9 +52,9 @@ education:
   - title: Digital Media BSc(Hons)
     year: 2018-2021
     academy: The University of West England
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
+  - title: ICT
+    year: 2015-2018
+    academy: St John Rigby College
 service:
   enable: true
   title: Services
