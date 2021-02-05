@@ -1,6 +1,6 @@
 ---
 title: "My first experience networking with others in UX"
-date: 2019-05-12T12:14:34+06:00
+date: 2020-11-11
 image: "images/blog/student-849822_1920.jpg"
 description: "This is meta description."
 draft: false
