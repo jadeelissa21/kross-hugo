@@ -14,13 +14,13 @@ skill:
   title: Skills
   item:
   - title: UX Research & Design
-    progress: 60%
+    progress: 45%
     color: "#fdb157"
   - title: Graphic Design
-    progress: 60%
+    progress: 25%
     color: "#9473e6"
   - title: After Effects Animation
-    progress: 65%
+    progress: 20%
     color: "#bdecf6"
   - title: Code
     progress: 10%
