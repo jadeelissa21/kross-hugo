@@ -56,11 +56,6 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: false
   - title: UX Design & Research
     icon: ti-vector
     content: Individually or working with a team I can help you design a digital product
