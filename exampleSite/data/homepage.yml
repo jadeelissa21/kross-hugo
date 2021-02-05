@@ -3,13 +3,13 @@ banner:
   title: Hi! I’m <br> Christoher <br> UX designer
 about:
   enable: true
-  content: "Hi i'm Jade, Junior Digital Content Creator. I love to design interfaces,
+  content: "Hi I'm Jade, Junior Digital Content Creator. I love to design interfaces,
     it's my passion. I am here to help you, I am here to design and assist in the
-    production of wireframes, prototypes, concept sketches,and user flows using key
-    tools such as invison and Figma. I can help you to describe yourself in the best
-    way.. I value the small details of the design development process, I am very interested
-    in the UX field and how products are made to fit the purpose of the audience,
-    humans!, Get in touch with me..\U0001F60A"
+    production of wireframes, prototypes, concept sketches, and user flows using key
+    tools such as Invision and Figma. I can help you to describe yourself in the best
+    way... I value the small details of the design development process, I am very
+    interested in the UX field and how products are made to fit the purpose of the
+    audience, humans!, Get in touch with me.\U0001F60A"
   button:
     enable: true
     label: know more
