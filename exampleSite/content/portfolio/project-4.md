@@ -10,6 +10,8 @@ draft: false
 
 Project Requirement
 
+Image source - <a href="https://www.freepik.com/vectors/watercolor">Watercolor vector created by starline - www.freepik.com</a>
+
 N/A
 
 Project Details
