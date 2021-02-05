@@ -1,9 +1,9 @@
 ---
-title: "Eat in application research and design"
+title: "The 'Eat in' application research and design"
 date: 2020-04-23
 image: "images/portfolio/item-1.png"
 client: "Fruto Design Studio"
-categories: ["design","development"]
+categories: ["UX design","development"]
 description: "This is meta description."
 draft: false
 ---
