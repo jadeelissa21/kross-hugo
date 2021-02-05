@@ -61,10 +61,14 @@ service:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
-  - title: UX Design
+  - title: UX Design & Research
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Individually or working with a team I can help you design a digital product
+      to be tailored to a specific audience, following UX design principles I will
+      assist in the production of wireframes, prototypes, concept sketches, user flows
+      and personas using key tools/applications such as Invision and Figma. I will
+      help you make the best decisions based on the design and research to produce
+      the product you desire
     highlighted: true
   - title: Graphic Design & Animation
     icon: ''
