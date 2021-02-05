@@ -1,7 +1,7 @@
 ---
 title: "Women in Tech video series"
 date: 2020-21
-image: "images/portfolio/item-3.png"
+image: "images/portfolio/Blue Orange and Yellow Bright and Playful Fashion Moodboard Photo Collage.png"
 client: "UWE"
 categories: ["Design"]
 description: "This is meta description."
