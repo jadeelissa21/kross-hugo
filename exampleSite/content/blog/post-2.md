@@ -1,5 +1,5 @@
 ---
-title: "My first experience networking with others in UX"
+title: "Women in technology"
 date: 2020-11-11
 image: "images/blog/student-849822_1920.jpg"
 description: "This is meta description."
