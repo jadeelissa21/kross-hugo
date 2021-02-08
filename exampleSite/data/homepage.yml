@@ -29,7 +29,7 @@ experience:
   enable: true
   title: My Experience
   item:
-  - logo: "/images/architecture-plan.png"
+  - logo: "/images/ui.png"
     title: UX Research
     company: TVPP
     duration: 2020-2021
