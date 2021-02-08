@@ -1,4 +1,4 @@
-baseURL = "https:/jaldigitalmedia.netlify.app/"
+baseURL = "https://jaldigitalmedia.netlify.app/"
 languageCode = "en-uk"
 summaryLength = "10"
 theme = "kross-hugo"
