@@ -1,7 +1,7 @@
 ---
-title: "Women in Technology-Blog post coming soon"
-date: 2021-05-23
-image: "images/blog/26690.jpg"
+title: "My first experience networking with others in UX"
+date: 2020-11-11
+image: "images/blog/student-849822_1920.jpg"
 description: "This is meta description."
 draft: false
 ---
