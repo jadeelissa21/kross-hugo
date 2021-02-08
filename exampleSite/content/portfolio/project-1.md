@@ -24,13 +24,7 @@ throughout the project which was shown to the external client
 
 #### Project outcome
 
-Throughout the project we conducted user research in the form of semi structured interviews, designed
-and tested a prototype for an interactive mobile system/application based around the theme of healthy
-eating, During the process of creating the eat in application I contributed towards the tasks within the user
-research phase e.g. creating the design brief as well as making the information sheet the interviewee’s
-read. I also helped create the visual icons and basic wire frame for the final prototype lastly I created the
-final presentation, showcasing all of our progress throughout the project which was shown to the external
-client.From this project I have learnt that communication is vital when trying to create an
+From this project I have learnt that communication is vital when trying to create an
 application within a group, it is important that each page is consistent with the content and the overall
 layout of the elements on the page. The design and feel of the application will determine the users interests
 with the content e.g. the choice of colours can affect how the app is perceived. 
