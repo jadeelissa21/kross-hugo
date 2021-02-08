@@ -2,7 +2,7 @@ baseURL = "https:/jaldigitalmedia.netlify.app/"
 languageCode = "en-uk"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "JalMedia"
+title = "JALDigitalMedia"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
