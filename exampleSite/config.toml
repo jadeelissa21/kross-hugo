@@ -1,5 +1,5 @@
 baseURL = "https://jalmediagetithere.netlify.app/"
-languageCode = "en-us"
+languageCode = "en-uk"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "JalMedia"
