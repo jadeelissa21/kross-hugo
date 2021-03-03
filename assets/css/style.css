@@ -29,7 +29,6 @@ p {
 }
 
 h1,
-h2,
 h3,
 h5,
  {
@@ -53,6 +52,7 @@ h1,
 
 h2,
 .h2 {
+  color: #FFFFFF;
   font-size: 60px
 }
 
