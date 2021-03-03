@@ -32,7 +32,7 @@ phone = "Jade Ashton-Linnett"
 theme_color = "#8c2ab3"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = ""
 [params.cookies]
 enable = true
 expire_days = 2
