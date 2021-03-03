@@ -23,13 +23,13 @@ weight = 1
 address = ""
 author = "Jade Ashton-Linnett"
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
+description = ""
 email = "jadeelissa21@hotmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
 phone = "Jade Ashton-Linnett"
-theme_color = "#b132a4"
+theme_color = "#8c2ab3"
 [params.contact]
 enable = true
 form_action = "#"
