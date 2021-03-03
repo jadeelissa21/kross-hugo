@@ -29,7 +29,7 @@ google_analytics_id = ""
 home = "Home"
 logo = ""
 phone = "Jade Ashton-Linnett"
-theme_color = "#44ba56"
+theme_color = "#6440b3"
 [params.contact]
 enable = true
 form_action = "#"
