@@ -34,7 +34,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #000000;
+  color: #000;
   font-family: playfair display, serif;
   line-height: 1.2
 }
@@ -427,7 +427,7 @@ textarea.form-control {
 }
 
 .navigation.nav-bg {
-  background-color:#8c2ab3(--primary-color);
+  background-color: var(--primary-color);
   padding: 15px 100px
 }
 
@@ -440,7 +440,7 @@ textarea.form-control {
 @media(max-width:991px) {
   .navigation {
     padding: 20px;
-    background: #44ba56(--primary-color)
+    background: var(--primary-color)
   }
 }
 
@@ -451,7 +451,7 @@ textarea.form-control {
 }
 
 .navbar .nav-item.active .nav-link{
-  color: #52f8f4 ;
+  color: #52f8f4;
 }
 
 .navbar-dark .navbar-nav .nav-link {
